@@ -1,0 +1,482 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Redwood Roofing.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Redwood Roofing | Roofing in Norman, OK",
+    "description": "Redwood Roofing: architectural shingles, metal roofing and commercial roofing for homes and businesses in Norman. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Redwood Roofing",
+    "shortName": "Redwood Roofing",
+    "wordmark": "Redwood Roofing",
+    "phone": "(405) 256-8900",
+    "phoneE164": "+14052568900",
+    "email": "info@redwoodok.com",
+    "address": "Norman, OK 73070",
+    "hours": "Mon to Fri · 8:00 to 6:00 · Sat 9:00 to 4:00",
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "ba-worn-after",
+        "badge": "Shingles",
+        "title": "Architectural shingles",
+        "meta": "Durable and good looking"
+      },
+      {
+        "img": "service-windows",
+        "badge": "Metal",
+        "title": "Metal roofing",
+        "meta": "Long life, energy efficient"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "Commercial and industrial"
+      },
+      {
+        "img": "ba-storm-before",
+        "badge": "Storm",
+        "title": "Storm damage assessment",
+        "meta": "After the storm"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing · Norman, Oklahoma",
+    "title": "Unrivaled<br /><mark class=\"hl\">protection.</mark>",
+    "lead": "Architectural shingle, metal and commercial roofing, with free inspections and post-storm damage assessments, from a team certified by GAF, CertainTeed and Owens Corning.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": null,
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Shingles",
+      "em": "Free est.",
+      "type": null,
+      "town": "Norman, OK",
+      "title": "Architectural shingles",
+      "img": "ba-worn-after",
+      "line": "Premium architectural shingles chosen for durability and looks.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Metal",
+      "em": null,
+      "type": null,
+      "town": "Norman, OK",
+      "title": "Metal roofing",
+      "img": "service-windows",
+      "line": "Metal roofing for longevity and energy efficiency.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Norman, OK",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Commercial and industrial roofing.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Storm",
+      "em": null,
+      "type": null,
+      "town": "Norman, OK",
+      "title": "Storm damage assessment",
+      "img": "ba-storm-before",
+      "line": "Post-storm damage assessments.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Inspection",
+      "em": null,
+      "type": null,
+      "town": "Norman, OK",
+      "title": "Roof inspections",
+      "img": "service-roof-replacement",
+      "line": "A free inspection, with guidance through every step.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1480,
+        430
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Redwood Roofing",
+    "title": "Trust, one roof<br /><mark>at a time.</mark>",
+    "body": "BBB A+ rated, GAF Master Elite and CertainTeed SELECT ShingleMaster certified.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "count": 5,
+        "label": "roofing services"
+      },
+      {
+        "count": 1,
+        "label": "service area"
+      }
+    ],
+    "tickerLabel": "Why Redwood Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "BBB A+ rating",
+        ""
+      ],
+      [
+        "GAF Master Elite",
+        ""
+      ],
+      [
+        "CertainTeed SELECT ShingleMaster",
+        ""
+      ],
+      [
+        "Owens Corning",
+        ""
+      ],
+      [
+        "Free roof inspections",
+        ""
+      ],
+      [
+        "Building trust for over a decade",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Shingle, metal<br /><mark>or commercial.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Shingles",
+        "img": "ba-worn-after",
+        "title": "Architectural shingles",
+        "sub": "Durable and good looking",
+        "line": "Premium architectural shingles chosen for durability and looks.",
+        "specs": "Architectural shingles",
+        "pin": [
+          "Norman",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Metal",
+        "img": "service-windows",
+        "title": "Metal roofing",
+        "sub": "Long life, energy efficient",
+        "line": null,
+        "specs": "Metal",
+        "pin": [
+          "Norman",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "Commercial and industrial",
+        "line": null,
+        "specs": "Commercial",
+        "pin": [
+          "Norman",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Storm",
+        "img": "ba-storm-before",
+        "title": "Storm damage assessment",
+        "sub": "After the storm",
+        "line": null,
+        "specs": "Assessment",
+        "pin": [
+          "Norman",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Inspection",
+        "img": "service-roof-replacement",
+        "title": "Roof inspections",
+        "sub": "Free inspection",
+        "line": null,
+        "specs": "Free inspection",
+        "pin": [
+          "Norman",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Based in<br /><mark>Norman.</mark>",
+    "body": "Serving Oklahoma from Norman.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Norman",
+        "c": "OK",
+        "x": 30,
+        "y": 46,
+        "img": "ba-worn-after",
+        "badge": "Our office",
+        "stats": null,
+        "note": "Norman, OK 73070"
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (405) 256-8900 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "Open Mon to Fri, 8:00 to 6:00, Sat 9:00 to 4:00.",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Architectural shingles, metal roofing, commercial roofing, storm damage assessment and roof inspections."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Norman, OK."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (405) 256-8900 and email info@redwoodok.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Request a free<br /><mark>inspection.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (405) 256-8900.",
+    "under": null,
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Our office",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
